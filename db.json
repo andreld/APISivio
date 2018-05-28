@@ -2,7 +2,7 @@
   "obras":[
     {
       "IdObra": 1,
-      "FKInstalacao": 1,
+      "FKInstalacao": "CCSO",
       "ResumoObra": "obra genérica",
       "DescriObra": null,
       "FKResponsavel": null,
@@ -16,7 +16,7 @@
     },
     {
       "IdObra": 2,
-      "FKInstalacao": 1,
+      "FKInstalacao": "UFMA",
       "ResumoObra": "obra generica 2",
       "DescriObra": null,
       "FKResponsavel": null,
@@ -30,7 +30,7 @@
     },
     {
       "IdObra": 3,
-      "FKInstalacao": 2,
+      "FKInstalacao": "CCET",
       "ResumoObra": "reforma",
       "DescriObra": null,
       "FKResponsavel": null,
