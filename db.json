@@ -1,0 +1,46 @@
+{
+  "obras":[
+    {
+      "IdObra": 1,
+      "FKInstalacao": 1,
+      "ResumoObra": null,
+      "DescriObra": null,
+      "FKResponsavel": null,
+      "Custo": 1600550,
+      "OrigemRecursos": "Governo Federal",
+      "DataInicio": "10/05/2018",
+      "Prazo": 150,
+      "Latitude": null,
+      "Longitude": null,
+      "StatusObra": true
+    },
+    {
+      "IdObra": 2,
+      "FKInstalacao": 1,
+      "ResumoObra": null,
+      "DescriObra": null,
+      "FKResponsavel": null,
+      "Custo": 1600550,
+      "OrigemRecursos": "Governo Federal",
+      "DataInicio": "10/05/2018",
+      "Prazo": 150,
+      "Latitude": null,
+      "Longitude": null,
+      "StatusObra": true
+    },
+    {
+      "IdObra": 3,
+      "FKInstalacao": 2,
+      "ResumoObra": null,
+      "DescriObra": null,
+      "FKResponsavel": null,
+      "Custo": 1600550,
+      "OrigemRecursos": "Governo Federal",
+      "DataInicio": "10/05/2018",
+      "Prazo": 150,
+      "Latitude": null,
+      "Longitude": null,
+      "StatusObra": true
+    }
+  ]
+}
