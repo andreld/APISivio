@@ -1,0 +1,43 @@
+{
+  "obras":[
+    {
+      "IdObra": 1,
+      "FKInstalacao": "CCSO",
+      "ResumoObra": "obra generica",
+      "DescriObra": "descricao",
+      "FKResponsavel": "Empresa X",
+      "Custo": 1600550.09,
+      "OrigemRecursos": "Governo Federal",
+      "DataInicio": "09/05/2018",
+      "Prazo": 150,
+      "Latitude": -2.556463,
+      "Longitude": -44.309972,
+    },
+    {
+      "IdObra": 2,
+      "FKInstalacao": "UFMA",
+      "ResumoObra": "obra generica 2",
+      "DescriObra": "descricao",
+      "FKResponsavel": "empresa Y",
+      "Custo": 12000.00,
+      "OrigemRecursos": "Governo Federal",
+      "DataInicio": "10/05/2018",
+      "Prazo": 150,
+      "Latitude": -2.555855,
+      "Longitude": -44.309303,
+    },
+    {
+      "IdObra": 3,
+      "FKInstalacao": "CCET",
+      "ResumoObra": "reforma",
+      "DescriObra": "descricao",
+      "FKResponsavel": "empresa X",
+      "Custo": 1600550.80,
+      "OrigemRecursos": "Governo Federal",
+      "DataInicio": "20/12/2017",
+      "Prazo": 150,
+      "Latitude": -2.558554,
+      "Longitude": -44.308159,
+    }
+  ]
+}
